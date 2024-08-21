@@ -1,0 +1,24 @@
+- schema_name: public
+  name: Public
+  domain: localhost
+  is_primary: true
+
+- schema_name: shueib
+  name: shueibco
+  domain: shueibco.localhost
+  is_primary: true
+
+- schema_name: nayeem
+  name: nayeemco
+  domain: nayeemco.localhost
+  is_primary: true
+
+- schema_name: ubaid
+  name: ubaidco
+  domain: ubaidco.localhost
+  is_primary: true
+
+- schema_name: imdad
+  name: imdadco
+  domain: imdadco.localhost
+  is_primary: true
